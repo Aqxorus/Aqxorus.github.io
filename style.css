@@ -1,5 +1,19 @@
 body {
   font-family: Quicksand;
   font-weight: 500;
-  background-color: cyan;
+  background-image: linear-gradient(to right, #e06060, #0a35aa);
+  padding: 7px 2px 3px 2px;
+  width: auto;
+  border-radius: 2.5ex;
+  border: 3px solid #7585dd;
+  margin-bottom: 5px;
+}
+
+p {
+  margin-left: 1%;
+  font-weight: 600;
+}
+
+h1 {
+  margin-left: 1%;
 }
