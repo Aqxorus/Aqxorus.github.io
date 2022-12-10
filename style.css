@@ -1,7 +1,10 @@
-body {
+* {
   font-family: Montserrat;
-  font-weight: 500;
+}
+
+body {
   background-image: linear-gradient(to right, #e06060, #0a35aa);
+  font-weight: 500;
   padding: 7px 2px 3px 2px;
   width: auto;
   border-radius: 2.5ex;
