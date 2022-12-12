@@ -3,8 +3,8 @@
 }
 
 body {
-  background-image: linear-gradient(to right, #e06060, #0a35aa);
-  font-weight: 500;
+  background-image: linear-gradient(to right, #36d1dc, #5b86e5);
+  font-weight: normal;
   padding: 7px 2px 3px 2px;
   width: auto;
   border-radius: 2.5ex;
@@ -12,11 +12,15 @@ body {
   margin-bottom: 5px;
 }
 
-p {
-  margin-left: 1%;
-  font-weight: 600;
+a {
+  color: #001868;
+  font-weight: bold;
 }
 
 h1 {
-  margin-left: 1%;
+  margin-left: 2.3%;
+}
+
+ul {
+  margin-left: 2%;
 }
