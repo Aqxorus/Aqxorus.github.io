@@ -2,12 +2,6 @@
 
 body {
   font-family: Montserrat;
-  background-image: radial-gradient(
-    circle 975px at 2.6% 48.3%,
-    rgb(28, 37, 163) 0%,
-    rgba(95, 184, 224, 1) 99.7%
-  );
-  border: 2px solid black;
-  border-radius: 5px;
-  padding: 7px;
+  color: rgba(255, 255, 255, 0.7);
+  background-color: black;
 }
